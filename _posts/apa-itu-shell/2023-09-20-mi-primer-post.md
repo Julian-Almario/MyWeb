@@ -1,8 +1,8 @@
 ---
 title: mi primer post
-date: 2020-01-25 11:58:47 +07:00
-modified: 2020-02-02 16:49:47 +07:00
-tags: [unix/linux, cli]
+date: 2023-09-20 11:58:47 +07:00
+modified: 2023-09-20 12:18:06 +07:00
+tags: [vida, experiencias]
 description: Shell adalah sebuah command-line interpreter; program yang berperan sebagai penerjemah perintah yang diinputkan oleh User yang melalui terminal, sehingga perintah tersebut bisa dimengerti oleh si Kernel.
 image: "/apa-itu-shell/shell_evolution.png"
 ---
