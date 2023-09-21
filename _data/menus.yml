@@ -1,9 +1,9 @@
-- title: home
+- title: Home
   url: /
   external: false
 
-- title: archive
-  url: /archive/
+- title: Post
+  url: /post/
   external: false
 
 - title: about
