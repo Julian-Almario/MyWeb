@@ -7,4 +7,4 @@ description: Un pequeñp vistaso de mi workflow que actualmente sigue en desarro
 image: "/setup2023-06-10.jpg"
 ---
 
-<img src="/setup2023-06-10.jpg" alt="workflow inicial">
+<img src="/setup2023-06-10.jpg" alt="workflow inicial"></img>
