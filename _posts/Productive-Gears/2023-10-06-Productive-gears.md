@@ -7,4 +7,4 @@ description: Un pequeñp vistaso de mi workflow que actualmente sigue en desarro
 image: "/Productive-Gears/setup2023-06-10.jpg"
 ---
 
-![[setup2023-06-10.jpg]]
+<img src="/assets/img/setup2023-06-10.jpg" alt="test">
