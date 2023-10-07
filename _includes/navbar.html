@@ -183,6 +183,7 @@
           {%- endfor -%}
         {%- else -%}
           <a class="menu-link {% if url == '/' %}active{% endif %}" href="/">home</a>
+          <a class="menu-link {% if url == '/blog/' %}active{% endif %}" href="/blog">blog</a>
           <a class="menu-link {% if url == '/about/' %}active{% endif %}" href="/about">about</a>
         {%- endif -%}
         </a>
