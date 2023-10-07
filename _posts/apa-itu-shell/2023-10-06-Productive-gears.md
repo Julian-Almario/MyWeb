@@ -8,7 +8,7 @@ image: "/setup20230-06-10"
 ---
 
 <figure>
-<img src="/setup20230-06-10" alt="workflow inicial">
+<img src="/apa-itu-shell/setup20230-06-10" alt="workflow inicial">
 <figcaption>Fig 1. Terminal emulator, instalasi package dan check service.</figcaption>
 </figure>
 
