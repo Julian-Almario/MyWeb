@@ -2,17 +2,15 @@
 title: Mas sobre mi
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: Hola soy estudiante de medicina
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+Hola soy estudiante de medicina de 5° Semestre que le gusta la investigación y en sus tiempos libros disfruta el codigo, la electronica. el cual esta lograado organizar su vida para que sea menos estresante jajajaj y por eso el porque de este mini blog sobre datos sobre me vida asi como mi canal de <a href="https://www.youtube.com/channel/UCZ_1pCWc7GkXnq6FbqeJxDw">youtube</a> mi objetivo son llegar a los 1,000 subs.
 
-If you have a question about him or else, just send a letter to him.
+**Contact**
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
-
-**may u needs ✨**
-
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+- <a href="https://www.youtube.com/channel/UCZ_1pCWc7GkXnq6FbqeJxDw">Youtube channel</a>
+- <a href="https://www.linkedin.com/in/julian-almario-loaiza-70523b259/">Linkedin</a>
+- <a href="https://www.instagram.com/julianalmario_/?next=%2F">Instagram</a> (ya no lo tengo instalado pero hay esta)
+- Estoy trabajando en mi correo de contacto.
