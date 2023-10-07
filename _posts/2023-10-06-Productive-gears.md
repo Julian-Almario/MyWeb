@@ -7,7 +7,4 @@ description: Un pequeñp vistaso de mi workflow que actualmente sigue en desarro
 image: "/setup2023-06-10.jpg"
 ---
 
-<figure>
 <img src="/setup2023-06-10.jpg" alt="workflow inicial">
-<figcaption>Fig 1. Terminal emulator, instalasi package dan check service.</figcaption>
-</figure>
