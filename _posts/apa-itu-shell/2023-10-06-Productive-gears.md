@@ -1,10 +1,10 @@
 ---
-title: mi primer post
-date: 2023-09-20 11:58:47 +07:00
-modified: 2023-09-20 12:18:06 +07:00
-tags: [vida, experiencias]
-description: Shell adalah sebuah command-line interpreter; program yang berperan sebagai penerjemah perintah yang diinputkan oleh User yang melalui terminal, sehingga perintah tersebut bisa dimengerti oleh si Kernel.
-image: "/apa-itu-shell/shell_evolution.png"
+title: Productive Device
+date: 2023-10-06 8:50:00 +07:00
+modified: 
+tags: [Gears, Productive, University]
+description: Un pequeñp vistaso de mi workflow que actualmente sigue en desarrollo, pero hasta este punto es eficiente
+image: "/setup20230-06-10"
 ---
 
 <a href="http://www.youtube.com/watch?v=tc4ROCJYbm0&t=70" target="_blank" rel="noopener">Dulu</a> Sebelum adanya <abbr title="Graphical User Interface">GUI</abbr> cara user berinteraksi dengan komputer menggunakan <abbr title="Command Line Interface">CLI</abbr> yaitu mengetik baris perintah pada sebuah antarmuka dalam bentuk baris teks seperti 👇.
