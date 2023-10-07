@@ -12,8 +12,7 @@ mode: dark # default theme "dark" | "light"
 # Profile settings
 author:
   name: Julian Almario # author name
-  bio: >- # tell to the world
-    Mi nombre es Julian Almario, medico en formacion, programador, amante de la robotica y innovacion medica.
+  bio:
   username: JulianAlmario # general username
   github: Julian-Almario # github username
   twitter: JulianAlmario_ # twitter username
