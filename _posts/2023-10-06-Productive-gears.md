@@ -4,11 +4,11 @@ date: 2023-10-06 8:50:00 +07:00
 modified: 
 tags: [Gears, Productive, University]
 description: Un pequeñp vistaso de mi workflow que actualmente sigue en desarrollo, pero hasta este punto es eficiente
-image: "/apa-itu-shell/setup2023-06-10.jpg"
+image: "/setup2023-06-10.jpg"
 ---
 
 <figure>
-<img src="/apa-itu-shell/setup2023-06-10.jpg" alt="workflow inicial">
+<img src="/setup2023-06-10.jpg" alt="workflow inicial">
 <figcaption>Fig 1. Terminal emulator, instalasi package dan check service.</figcaption>
 </figure>
 
