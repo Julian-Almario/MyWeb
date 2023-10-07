@@ -7,7 +7,10 @@ description: Un pequeñp vistaso de mi workflow que actualmente sigue en desarro
 image: "/setup20230-06-10"
 ---
 
-<a href="http://www.youtube.com/watch?v=tc4ROCJYbm0&t=70" target="_blank" rel="noopener">Dulu</a> Sebelum adanya <abbr title="Graphical User Interface">GUI</abbr> cara user berinteraksi dengan komputer menggunakan <abbr title="Command Line Interface">CLI</abbr> yaitu mengetik baris perintah pada sebuah antarmuka dalam bentuk baris teks seperti 👇.
+<figure>
+<img src="/setup20230-06-10" alt="workflow inicial">
+<figcaption>Fig 1. Terminal emulator, instalasi package dan check service.</figcaption>
+</figure>
 
 <figure>
 <img src="/apa-itu-shell/terminal_nginx.gif" alt="installing nginx in ubuntu">
